@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nome": "Caneta Bic",
+      "preco": 5.89
+    },
+    {
+      "id": 2,
+      "nome": "Caderno 10 matérias",
+      "preco": 20.99
+    },
+    {
+      "id": 3,
+      "nome": "Grampeador",
+      "preco": 12.85
+    },
+    {
+      "nome": "geladeira nova",
+      "preco": "899.90",
+      "id": 4
+    }
+  ]
+}
